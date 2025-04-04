@@ -1,0 +1,21 @@
+body {
+background-color: green;
+background-image: url("img.jpg");
+}
+
+h1 {
+color: yellow;
+}
+
+button {
+height: 100px;
+color: black;
+background-color: red;
+font-size: 50px;
+text-align: center;
+border-radius: 20px;
+position: absolute;
+right: 20%;
+left: 20%;
+bottom: 20%;
+}
